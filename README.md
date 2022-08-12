@@ -7,22 +7,6 @@ this is content uploaded and hosted on this site which will hopefully make the c
 
 Nothing is currently uploaded or hosted on this site I have to work on it. I will also make pages on this site for each video, this is just the centeral area. 
 
-## Youtube embeds (WIP NOT ALL EMBEDED YET ITS A TEST)
-Youtube embeds. Note I don't have all of my vods and stuff uploaded to youtube and once i get the ball rolling on this vods might be uploaded here first for sake of convience. But heres what i have on youtube embeded here.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LnDL3B49Vgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gmkwzFWdP64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bEjtFFzq0lA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2UktrQlUTS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtxhOkSH0BE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Y8vmYzasM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WobzE7hY23k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## About Me Copy pasted here because the hyperlink isn't showing up for some reason.
 (Link to my about me: https://github.com/flowingblaze/flowingblaze.github.io/blob/d4775ca496057dd7ee1f5c3277b927c235a087d9/Aboutme.md) 
