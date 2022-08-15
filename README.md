@@ -1,5 +1,7 @@
 # Flowingblaze (WIP)
-![My about me](https://github.com/flowingblaze/flowingblaze.github.io/blob/d4775ca496057dd7ee1f5c3277b927c235a087d9/Aboutme.md) https://flowingblaze.freeforums.net/ is my forum if you have feedback on the site. 
+![My about me](https://github.com/flowingblaze/flowingblaze.github.io/blob/d4775ca496057dd7ee1f5c3277b927c235a087d9/Aboutme.md) https://flowingblaze.freeforums.net/ is my forum if you have feedback on the site.  
+
+All work uploaded onto this site and all content I make is under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 # Content 
 ## Uploaded and hosted to this site
